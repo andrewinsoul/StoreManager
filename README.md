@@ -1,0 +1,2 @@
+# Resultant Calculator App
+This is just a simple app I developed while learning the pros and cons of tkinter in python. It takes a total number of coplanar forces and the angles as well as the positional configuration of each force. Based on the values supplied by the user, it computes the resultant force of the forces as well as the direction, it also draws a pictorial representation of the calculation. 
